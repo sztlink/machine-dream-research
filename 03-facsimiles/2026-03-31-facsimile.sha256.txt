@@ -1,0 +1,2 @@
+3ac0becbb73eb3605a2dec8b12fa3e342bf5335bfd4ba2ceb1d128c5b769c246  03-facsimiles/2026-03-31-facsimile.md
+a5d9dfcf6d532eb8c097764e25cb0a7a60fd89f747bb1bf072ff531db22abb84  03-facsimiles/2026-03-31-redaction-notes.md

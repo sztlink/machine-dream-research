@@ -1,0 +1,25 @@
+# Machine Dream Research safety defaults
+
+# Never commit raw/private dream material here
+private/
+bruto/
+raw/
+logs/
+*.log
+*.sqlite
+*.db
+*.env
+.env*
+
+# Facsimile drafting area
+03-facsimiles/drafts/
+03-facsimiles/private/
+
+# Release/build artifacts
+dist/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
