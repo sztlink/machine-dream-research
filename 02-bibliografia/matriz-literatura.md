@@ -34,6 +34,10 @@
 | ROLNIK, Suely. *Cartografia sentimental: transformações contemporâneas do desejo*. 2. ed. Porto Alegre: Sulina, 2006. | verificar edição física usada | Cartografia como método de escuta de forças antes da forma; base para “corpo primeiro”. |
 | ROLNIK, Suely. O retorno do corpo-que-sabe. *Hemispheric Institute*, 2013. Disponível em: [https://hemisphericinstitute.org/pt/enc13-keynote-lectures/item/2085-enc13-keynote-rolnik.html](https://hemisphericinstitute.org/pt/enc13-keynote-lectures/item/2085-enc13-keynote-rolnik.html). | verificada como web | Formula a dimensão do corpo-que-sabe; útil para explicar o limite do Machine Dream sem corpo próprio. |
 | BEIGUELMAN, Giselle. Artificial Intelligence as Phármakon: algorithmic art between remedy and poison. *Digital Culture & Society*, v. 8, n. 2, p. 15–24, 2022. DOI: [10.14361/dcs-2022-0203](https://doi.org/10.14361/dcs-2022-0203). | verificada | Eixo phármakon: IA como remédio/veneno, imagem algorítmica e política da mediação. |
+| BEIGUELMAN, Giselle. *Políticas da imagem: vigilância e resistência na dadosfera*. São Paulo: Ubu Editora, 2021. | verificada | Fundamenta dadosfera, imagens técnicas contemporâneas, vigilância e resistência. Ajuda a situar o Machine Dream como política de visibilidade, não apenas produção de conteúdo. |
+| BEIGUELMAN, Giselle. *Memória da amnésia: políticas do esquecimento*. São Paulo: Edições Sesc São Paulo, 2019. | verificada | Eixo memória/esquecimento: reforça que arquivo é disputa política e que esquecer também é operação de poder. Central para a política de omissão do Machine Dream. |
+| BEIGUELMAN, Giselle. Reinventar a memória é preciso. In: BEIGUELMAN, Giselle; MAGALHÃES, Ana Gonçalves (org.). *Futuros possíveis: arte, museus e arquivos digitais*. São Paulo: Peirópolis/Edusp, 2014. p. 12–33. | verificada | Ponte direta com preservação de arte digital, arquivos e museus. Útil para explicar o fac-símile como forma pública de preservação sem abertura do bruto. |
+| BEIGUELMAN, Giselle. Eugenia maquínica do olhar: visão computacional, etarismo e gênero. *V!RUS*, n. 28, 2024. DOI: [10.11606/2175-974x.virus.v28.229584](https://doi.org/10.11606/2175-974x.virus.v28.229584). | verificada | Atualiza a discussão de IA/imagem para visão computacional, vieses e biopolítica do olhar. Apoia a cautela contra naturalizar a visão algorítmica do sonho. |
 | FLUSSER, Vilém. *Filosofia da caixa preta: ensaios para uma futura filosofia da fotografia*. São Paulo: Hucitec, 1985. | verificar edição usada | Aparato e imagem técnica; base para perguntar se o sonho informa ou apenas simula forma. |
 | DELEUZE, Gilles; GUATTARI, Félix. *Mil platôs: capitalismo e esquizofrenia*. São Paulo: Editora 34, 1995–1997. | verificar volume/edição usada | Agenciamento, rizoma e multiplicidade. Usar pontualmente, sem sobrecarregar o protocolo. |
 
@@ -64,6 +68,5 @@ A literatura técnica sobre agentes trata memória como persistência, recupera�
 
 1. Confirmar edição usada de Bion e preparar referências ABNT finais.
 2. Escolher referências específicas de Jung, em vez de citar *Collected Works* genericamente.
-3. Escolher 2–3 textos de Giselle Beiguelman sobre arquivo, memória, IA e imagem política além do phármakon.
-4. Preparar BibTeX definitivo.
-5. Separar bibliografia em três blocos no README futuro: fundamentos, interlocutores técnicos, notas de campo.
+3. Preparar BibTeX definitivo.
+4. Separar bibliografia em três blocos no README futuro: fundamentos, interlocutores técnicos, notas de campo.
