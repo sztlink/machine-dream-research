@@ -42,6 +42,8 @@ felipesztutman.com              ensaio/obra canônica futura
 02-bibliografia/
   README.md
   matriz-literatura.md
+  referencias-abnt.md
+  citacoes-abnt.md
   referencias.bib
 03-facsimiles/
   README.md
@@ -65,4 +67,4 @@ Detalhe em `02-bibliografia/README.md`.
 
 Versão pública estável: **v0.2.0**  
 Fac-símile sanitizado: `03-facsimiles/2026-03-31-facsimile.md`.  
-DOI/Zenodo: pendente até revisão ABNT formal e conferência de edições/traduções.
+DOI/Zenodo: pendente até conferência de edições/traduções e páginas para citações diretas.

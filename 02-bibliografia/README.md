@@ -6,6 +6,8 @@ Esta pasta organiza a bibliografia pública do **Machine Dream Research**.
 
 ```txt
 matriz-literatura.md      matriz comentada, com função de cada referência no protocolo
+referencias-abnt.md       referências em formato ABNT preliminar
+citacoes-abnt.md          guia de citações indiretas no corpo do texto
 referencias.bib           BibTeX público consolidado v0.2.0
 referencias-v02-pre.bib   snapshot preliminar preservado durante a transição para v0.2
 ```
@@ -52,8 +54,10 @@ Para textos públicos e acadêmicos, usar preferencialmente o Bloco 1. O Bloco 2
 
 ## Pendência antes de DOI
 
-Antes de DOI/Zenodo, revisar:
+A revisão ABNT preliminar foi criada em `referencias-abnt.md` e `citacoes-abnt.md`.
 
-1. ABNT completa;
-2. edição/tradução efetivamente usada para livros;
-3. consistência entre matriz, BibTeX e citações no texto.
+Antes de DOI/Zenodo, ainda revisar:
+
+1. edição/tradução efetivamente usada para livros;
+2. páginas específicas para citações diretas;
+3. exigências formais da instituição ou periódico de destino.
