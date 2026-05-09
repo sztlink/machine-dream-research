@@ -36,6 +36,7 @@ felipesztutman.com              ensaio/obra canônica futura
   metodologia.md
   politica-de-arquivo-e-intimidade.md
   claims-e-limites.md
+  glossario.md
 01-corpus/
   corpus-e-camadas.md
 02-bibliografia/
@@ -49,7 +50,7 @@ LICENSE.md
 
 ## Status
 
-Versão: **v0.1.1**  
-Estado: pronto para publicação pública inicial; DOI pendente.  
+Versão pública estável: **v0.1.1**  
+Trabalho em andamento: **v0.2-pre** — bibliografia revisada e glossário público.  
 Fac-símile sanitizado: `03-facsimiles/2026-03-31-facsimile.md`.  
-Próximo passo: GitHub público + peça no Machine Dream Lab; DOI apenas após revisão bibliográfica.
+Próximo passo: completar Jung + Giselle para v0.2; DOI apenas após revisão bibliográfica final.
