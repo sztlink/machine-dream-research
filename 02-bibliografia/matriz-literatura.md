@@ -1,6 +1,6 @@
-# Matriz de literatura v0.2-pre
+# Matriz de literatura v0.2.0
 
-> Estado: revisão bibliográfica inicial para a futura v0.2. Esta versão separa referências verificadas, referências de apoio e itens em quarentena. Ainda não é a bibliografia final para DOI/Zenodo.
+> Estado: bibliografia pública consolidada para v0.2.0. DOI/Zenodo continuam pendentes até revisão formal final em ABNT e conferência de edições físicas quando necessário.
 
 ## 1. Núcleo verificado — sonho, replay e prospecção
 
@@ -22,8 +22,8 @@
 
 | Referência | Status | Função no Machine Dream |
 |---|---:|---|
-| BION, Wilfred R. *Learning from Experience*. London: Heinemann, 1962. | verificar edição usada | Alpha-function, beta-elements e transformação de experiência bruta em pensamento sonhável. |
-| BION, Wilfred R. A theory of thinking. *The International Journal of Psycho-Analysis*, v. 43, p. 306–310, 1962. | verificar páginas/edição | Base para tratar sonho como trabalho de pensamento, não como ilustração. |
+| BION, Wilfred R. *Learning from Experience*. London: William Heinemann Medical Books, 1962. xii + 111 p. | verificada | Alpha-function, beta-elements e transformação de experiência bruta em pensamento sonhável. |
+| BION, Wilfred R. The psycho-analytic study of thinking. *The International Journal of Psycho-Analysis*, v. 43, p. 306–310, 1962. PMID: [13968380](https://pubmed.ncbi.nlm.nih.gov/13968380/). | verificada | Base para tratar sonho como trabalho de pensamento, não como ilustração. Também circula sob a formulação “A theory of thinking”. |
 | OGDEN, Thomas H. On not being able to dream. *The International Journal of Psychoanalysis*, v. 84, n. 1, p. 17–30, 2003. DOI: [10.1516/00207570360509655](https://doi.org/10.1516/00207570360509655). | verificada | “Sonhos não sonhados”: material que existe psiquicamente mas não foi elaborado. Fundamental para diferenciar registro de elaboração. |
 | SCHNEIDER, John A. From Freud’s dream-work to Bion’s work of dreaming: the changing conception of dreaming in psychoanalytic theory. *The International Journal of Psychoanalysis*, v. 91, n. 3, p. 521–540, 2010. DOI: [10.1111/j.1745-8315.2010.00263.x](https://doi.org/10.1111/j.1745-8315.2010.00263.x). | verificada | Ponte histórica Freud–Bion; sonho como função contínua do aparelho psíquico. |
 
@@ -71,8 +71,8 @@ A literatura técnica sobre agentes trata memória como persistência, recupera�
 
 > como transformar operações computacionais de memória em uma prática artística de elaboração, com política explícita de intimidade, omissão e fac-símile?
 
-## 9. Próximas tarefas para v0.2
+## 9. Pendências pós-v0.2
 
-1. Confirmar edição usada de Bion e preparar referências ABNT finais.
-2. Preparar BibTeX definitivo.
-3. Separar bibliografia em três blocos no README futuro: fundamentos, interlocutores técnicos, notas de campo.
+1. Conferir edições físicas/traduções se o projeto exigir ABNT final em português.
+2. Preparar versão ABNT completa para submissão acadêmica.
+3. Avaliar DOI/Zenodo apenas após essa revisão formal.

@@ -1,4 +1,4 @@
-# Glossário público v0.2-pre
+# Glossário público v0.2.0
 
 Este glossário define o vocabulário mínimo do **Sonho da Máquina / Machine Dream** para leitura pública, citação acadêmica e continuidade do protocolo.
 

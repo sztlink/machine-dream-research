@@ -40,17 +40,29 @@ felipesztutman.com              ensaio/obra canônica futura
 01-corpus/
   corpus-e-camadas.md
 02-bibliografia/
+  README.md
   matriz-literatura.md
+  referencias.bib
 03-facsimiles/
   README.md
 04-publicacoes/
   machine-dream-lab.md
+CHANGELOG.md
 LICENSE.md
 ```
 
+## Bibliografia em blocos
+
+A bibliografia pública está organizada em três blocos:
+
+1. **Fundamentos do método** — sonho, replay, elaboração, arquivo, corpo e política da imagem.
+2. **Interlocutores técnicos** — agentes, contexto longo, memória computacional e dream layers em IA.
+3. **Notas de campo / quarentena** — referências úteis ao histórico do projeto, mas não centrais à formulação v0.2.
+
+Detalhe em `02-bibliografia/README.md`.
+
 ## Status
 
-Versão pública estável: **v0.1.1**  
-Trabalho em andamento: **v0.2-pre** — bibliografia revisada e glossário público.  
+Versão pública estável: **v0.2.0**  
 Fac-símile sanitizado: `03-facsimiles/2026-03-31-facsimile.md`.  
-Próximo passo: completar Jung + Giselle para v0.2; DOI apenas após revisão bibliográfica final.
+DOI/Zenodo: pendente até revisão ABNT formal e conferência de edições/traduções.
