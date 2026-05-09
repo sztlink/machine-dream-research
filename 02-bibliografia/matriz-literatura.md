@@ -27,7 +27,15 @@
 | OGDEN, Thomas H. On not being able to dream. *The International Journal of Psychoanalysis*, v. 84, n. 1, p. 17–30, 2003. DOI: [10.1516/00207570360509655](https://doi.org/10.1516/00207570360509655). | verificada | “Sonhos não sonhados”: material que existe psiquicamente mas não foi elaborado. Fundamental para diferenciar registro de elaboração. |
 | SCHNEIDER, John A. From Freud’s dream-work to Bion’s work of dreaming: the changing conception of dreaming in psychoanalytic theory. *The International Journal of Psychoanalysis*, v. 91, n. 3, p. 521–540, 2010. DOI: [10.1111/j.1745-8315.2010.00263.x](https://doi.org/10.1111/j.1745-8315.2010.00263.x). | verificada | Ponte histórica Freud–Bion; sonho como função contínua do aparelho psíquico. |
 
-## 4. Núcleo conceitual — corpo, cartografia, aparato e arquivo
+## 4. Núcleo verificado — Jung, símbolo e compensação
+
+| Referência | Status | Função no Machine Dream |
+|---|---:|---|
+| JUNG, Carl Gustav. General aspects of dream psychology. In: JUNG, Carl Gustav. *The Collected Works of C. G. Jung, Volume 8: The Structure and Dynamics of the Psyche*. Edited by Gerhard Adler and R. F. C. Hull. Princeton: Princeton University Press, 1970. p. 237–280. DOI: [10.1515/9781400850952.237](https://doi.org/10.1515/9781400850952.237). | verificada | Referência principal para sonho como compensação da atitude consciente e como produção simbólica que “ensina” em vez de simplesmente ocultar. |
+| JUNG, Carl Gustav. On the nature of dreams. In: JUNG, Carl Gustav. *The Collected Works of C. G. Jung, Volume 8: The Structure and Dynamics of the Psyche*. Edited by Gerhard Adler and R. F. C. Hull. Princeton: Princeton University Press, 1970. p. 281–298. DOI: [10.1515/9781400850952.281](https://doi.org/10.1515/9781400850952.281). | verificada | Base para método de contexto, leitura de séries de sonhos e cuidado contra interpretação literal. Ajuda a sustentar fac-símile como estrutura, não decifração total. |
+| JUNG, Carl Gustav. The practical use of dream-analysis. In: JUNG, Carl Gustav. *The Collected Works of C. G. Jung, Volume 16: The Practice of Psychotherapy*. 2. ed. Princeton: Princeton University Press, 1966. p. 139–161. DOI: [10.1515/9781400851003.139](https://doi.org/10.1515/9781400851003.139). | verificada | Fundamenta a leitura prática de sonhos em série, o acompanhamento de transformações e a cautela clínica contra interpretações isoladas. |
+
+## 5. Núcleo conceitual — corpo, cartografia, aparato e arquivo
 
 | Referência | Status | Função no Machine Dream |
 |---|---:|---|
@@ -41,13 +49,13 @@
 | FLUSSER, Vilém. *Filosofia da caixa preta: ensaios para uma futura filosofia da fotografia*. São Paulo: Hucitec, 1985. | verificar edição usada | Aparato e imagem técnica; base para perguntar se o sonho informa ou apenas simula forma. |
 | DELEUZE, Gilles; GUATTARI, Félix. *Mil platôs: capitalismo e esquizofrenia*. São Paulo: Editora 34, 1995–1997. | verificar volume/edição usada | Agenciamento, rizoma e multiplicidade. Usar pontualmente, sem sobrecarregar o protocolo. |
 
-## 5. Literatura e limite da memória total
+## 6. Literatura e limite da memória total
 
 | Referência | Status | Função no Machine Dream |
 |---|---:|---|
 | BORGES, Jorge Luis. Funes, o memorioso. In: BORGES, Jorge Luis. *Ficções*. Buenos Aires: Sur, 1944. | verificar edição/tradução usada | Memória perfeita como patologia; fundamenta esquecimento como operação positiva do método. |
 
-## 6. Itens em quarentena / notas internas
+## 7. Itens em quarentena / notas internas
 
 | Item | Motivo | Ação |
 |---|---|---|
@@ -55,18 +63,16 @@
 | “arXiv:2601.06115” como fundamento original | É posterior ao primeiro Machine Dream e não fundamentou a v1 de 30/03/2026. | Usar apenas como interlocutor/contraste público posterior. |
 | “Barry & Love 2022” | A referência estava ambígua. O DOI confirma publicação online em 2022 e volume/issue de 2023. | Citar como BARRY; LOVE, 2023, com nota de publicação online 2022 se necessário. |
 | “Lost-in-Middle 2024” | Agora verificado com DOI e TACL. | Manter na bibliografia principal. |
-| Jung, *Collected Works* genérico | Referência ampla demais para bibliografia pública. | Para v0.2, escolher volumes/capítulos específicos sobre sonho, símbolo e função prospectiva. |
 | Bourriaud / Bauman / Casey Reas | Úteis para leituras dos agentes do saber, mas ainda não centrais ao protocolo bibliográfico. | Manter fora do núcleo até haver seção específica de circulação, liquidez ou software art. |
 
-## 7. Lacuna de pesquisa atual
+## 8. Lacuna de pesquisa atual
 
 A literatura técnica sobre agentes trata memória como persistência, recuperação e coerência de longo prazo. A literatura neuro/psicanalítica trata sonho como replay, simulação, elaboração e metabolização. A lacuna do Machine Dream está na interseção:
 
 > como transformar operações computacionais de memória em uma prática artística de elaboração, com política explícita de intimidade, omissão e fac-símile?
 
-## 8. Próximas tarefas para v0.2
+## 9. Próximas tarefas para v0.2
 
 1. Confirmar edição usada de Bion e preparar referências ABNT finais.
-2. Escolher referências específicas de Jung, em vez de citar *Collected Works* genericamente.
-3. Preparar BibTeX definitivo.
-4. Separar bibliografia em três blocos no README futuro: fundamentos, interlocutores técnicos, notas de campo.
+2. Preparar BibTeX definitivo.
+3. Separar bibliografia em três blocos no README futuro: fundamentos, interlocutores técnicos, notas de campo.
